@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "icon": "react.png",
+  "icon": "TypeScript.png",
   "galleryBanner": {
     "color": "#222222",
     "theme": "dark"
@@ -22,6 +22,8 @@
   "categories": [
     "Extension Packs"
   ],
+  "author": "falieson",
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/TGRstack/vscode-extensions.git"
   },
@@ -30,6 +32,7 @@
     "url": "https://github.com/TGRstack/vscode-extensions.git/issues"
   },
   "extensionDependencies": [
+    "tgrstack.tgr-snippet-pack",
     "2gua.rainbow-brackets",
     "AlanWalk.markdown-toc",
     "anseki.vscode-color",
@@ -64,6 +67,7 @@
     "mikestead.dotenv",
     "mrmlnc.vscode-apache",
     "mrmlnc.vscode-duplicate",
+    "mrmlnc.vscode-json5",
     "ms-vscode.node-debug2",
     "ms-vscode.Theme-MarkdownKit",
     "msjsdiag.debugger-for-chrome",

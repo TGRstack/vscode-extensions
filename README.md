@@ -2,7 +2,9 @@
 
 A collection of extensions recommended by the author of TGRStack.com .
 
-For snippets search `tgr-snippet-pack`
+Includes:
+
+- `tgr-snippet-pack`
 
 <!--
 ## Extensions Included

@@ -1,5 +1,12 @@
 # Change Log
-All notable changes to this project will be documented in this file.
+
+Notable changes to this project.
+
+## [1.1.0]
+
+- Added json5 support
+- Added tgr-snippet-pack
 
 ## [1.0.0]
+
 - Initial release
