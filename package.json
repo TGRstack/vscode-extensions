@@ -2,7 +2,7 @@
   "name": "tgr-extension-pack",
   "displayName": "TGRStack.com extension pack.",
   "description": "Typescript GraphQL React Extensions for a great experience!",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "tgrstack",
   "engines": {
     "vscode": "^1.15.0"
@@ -43,7 +43,6 @@
     "cstechnologies.vscode-jest-runner",
     "DavidAnson.vscode-markdownlint",
     "edwardhjp.vscode-author-generator",
-    "eg2.tslint",
     "eg2.vscode-npm-script",
     "enochc.copy-relative-path",
     "ephoton.indent-switcher",
