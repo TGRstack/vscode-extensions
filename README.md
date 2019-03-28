@@ -2,7 +2,13 @@
 
 A collection of extensions recommended by the author of TGRStack.com .
 
-Includes:
+## Install
+
+```ext install tgrstack.tgr-extension-pack```
+
+Alternatively you can open the extensions panel and search for 'TGRStack extension'.
+
+## Includes
 
 - `tgr-snippet-pack`
 
@@ -22,3 +28,10 @@ Open a PR and I'd be happy to take a look.
 https://github.com/TGRstack/vscode-extensions
 
 **Enjoy!**
+
+## RELEASE NOTES
+
+### 2.0.0
+
+- the tslint package has been deprecated and needs to be replaced with microsoft's
+- added a number of other nice to have packages like `glean`!
