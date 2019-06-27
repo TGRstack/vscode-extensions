@@ -105,3 +105,14 @@ https://github.com/TGRstack/vscode-extensions
 * [NPM IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Adds IntelliSense for npm modules in your code. 
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocompletes filenames in your code. 
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Adds real-time collaborative editing and debugging into VS Code. -->
+
+## Publishing Instructions
+
+mainly a reminder to myself for how to publish to MS.
+
+```bash
+# login to MS and create a new PAT
+#   https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops#create-personal-access-tokens-to-authenticate-access
+$ vsce login <publisher>
+$ vsce publish
+```

@@ -2,6 +2,10 @@
 
 Notable changes to this project.
 
+### [2.2.1] -  Change maintainer of vscode-docker
+
+- [Change maintainer of vscode-docker](https://github.com/TGRstack/vscode-extensions/issues/1)
+
 ### [2.2.0] -  Replaces MS.Tslint 1.0.0 which is broken back to `eg2.tslint`
 
 - removes `ms-vscode.vscode-typescript-tslint-plugin`

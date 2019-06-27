@@ -2,7 +2,7 @@
   "name": "tgr-extension-pack",
   "displayName": "TGRStack.com extension pack.",
   "description": "Typescript GraphQL React Extensions for a great experience!",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "publisher": "tgrstack",
   "engines": {
     "vscode": "^1.15.0"
