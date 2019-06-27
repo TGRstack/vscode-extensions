@@ -113,6 +113,6 @@ mainly a reminder to myself for how to publish to MS.
 ```bash
 # login to MS and create a new PAT
 #   https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops#create-personal-access-tokens-to-authenticate-access
-$ vsce login <publisher>
+$ vsce login <publisher> # case sensitive
 $ vsce publish
 ```
