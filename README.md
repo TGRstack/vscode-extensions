@@ -18,6 +18,12 @@ https://github.com/TGRstack/vscode-extensions
 
 ## RELEASE NOTES
 
+### 2.3.0 -  Last release of 2019
+
+- replacing "extensionDependencies" w/ "extensionPack" option
+- hopefully ms-vscode's tslint is stable now
+- check the diff in the github repo for all the extension changes
+
 ### 2.2.0 -  Replaces MS.Tslint 1.0.0 which is broken back to `eg2.tslint`
 
 - removes `ms-vscode.vscode-typescript-tslint-plugin`
@@ -27,61 +33,74 @@ https://github.com/TGRstack/vscode-extensions
 - the tslint package has been deprecated and needs to be replaced with microsoft's
 - added a number of other nice to have packages like `glean`!
 
-
 ## Includes
 
-- `tgr-snippet-pack`
 - `2gua.rainbow-brackets`
+- `aaron-bond.better-comments`
 - `AlanWalk.markdown-toc`
 - `anseki.vscode-color`
+- `apollographql.vscode-apollo`
 - `bierner.emojisense`
+- `bierner.markdown-emoji`
 - `chrisdias.vscode-opennewinstance`
 - `christian-kohler.npm-intellisense`
 - `christian-kohler.path-intellisense`
 - `chrmarti.regex`
+- `codemooseus.vscode-devtools-for-chrome`
 - `cstechnologies.vscode-jest-runner`
 - `DavidAnson.vscode-markdownlint`
+- `dbaeumer.vscode-eslint`
+- `drKnoxy.eslint-disable-snippets`
+- `eamodio.gitlens`
 - `edwardhjp.vscode-author-generator`
 - `eg2.vscode-npm-script`
-- `eg2.tslint`
 - `enochc.copy-relative-path`
 - `ephoton.indent-switcher`
+- `euskadi31.json-pretty-printer`
 - `fabiodam.vscode-console-wrapper`
+- `felipecaputo.git-project-manager`
 - `fknop.vscode-npm`
 - `ginfuru.ginfuru-vscode-jekyll-syntax`
+- `GitHub.vscode-pull-request-github`
 - `idleberg.hopscotch`
 - `ifaxity.onedark`
+- `JakeWilson.vscode-placeholder-images`
 - `jkjustjoshing.vscode-text-pastry`
 - `jmarzka.open-folder-in-new-instance`
 - `joelday.docthis`
+- `johnpapa.vscode-peacock`
 - `joshpeng.theme-onedark-sublime`
 - `karigari.chat`
+- `kevinkyang.auto-comment-blocks`
 - `kisstkondoros.vscode-codemetrics`
 - `kogai.regex-railroad-diagrams`
 - `kumar-harsh.graphql-for-vscode`
+- `Liangqin.quick-notes`
 - `lihui.vs-color-picker`
 - `lukapetrovic.image-resizer`
 - `mauve.terraform`
 - `mechatroner.rainbow-csv`
+- `medzhidov.hex-rgba-converter`
 - `mezzalab.vscode-annotations`
 - `mike-co.import-sorter`
 - `mikestead.dotenv`
-- `mrmlnc.vscode-apache`
+- `mohsen1.react-javascript-to-typescript-transform-vscode`
 - `mrmlnc.vscode-duplicate`
 - `mrmlnc.vscode-json5`
-- `ms-vscode.node-debug2`
-- `ms-vscode.Theme-MarkdownKit`
-- `ms-vsliveshare.vsliveshare-audio`
-- `ms-vsliveshare.vsliveshare-pack`
-- `ms-vsliveshare.vsliveshare`
+- `ms-vscode.vscode-typescript-tslint-plugin`
 - `msjsdiag.debugger-for-chrome`
+- `msjsdiag.vscode-react-native`
 - `naumovs.color-highlight`
 - `oderwat.indent-rainbow`
-- `PeterJausovec.vscode-docker`
+- `OfHumanBondage.react-proptypes-intellisense`
+- `oliversturm.fix-json`
+- `paulmolluzzo.convert-css-in-js`
 - `PKief.material-icon-theme`
 - `qinjia.seti-icons`
+- `quicktype.quicktype`
 - `sgtsquiggs.vscode-active-file-status`
 - `shardulm94.trailing-spaces`
+- `SimonSiefke.svg-preview`
 - `steoates.autoimport`
 - `stevencl.addDocComments`
 - `stuart.unique-window-colors`
@@ -90,12 +109,15 @@ https://github.com/TGRstack/vscode-extensions
 - `tgrstack.tgr-snippet-pack`
 - `tnaseem.theme-seti`
 - `Tyriar.sort-lines`
-- `vsmobile.vscode-react-native`
 - `vtfn.stylint`
+- `waderyan.gitblame`
 - `wayou.vscode-todo-highlight`
 - `wix.glean`
+- `wix.stylable-intelligence`
 - `wix.vscode-import-cost`
+- `YoshinoriN.current-file-path`
 - `yzhang.markdown-all-in-one`
+- `ZainChen.json`
 
 <!--
 ## Extensions Included
