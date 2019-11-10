@@ -22,7 +22,7 @@ https://github.com/TGRstack/vscode-extensions
 
 - replacing "extensionDependencies" w/ "extensionPack" option
 - hopefully ms-vscode's tslint is stable now
-- check the diff in the github repo for all the extension changes
+- check [this diff](https://github.com/TGRstack/vscode-extensions/commit/24eb1d31bae10a42e72a3476194b7c2536defcb9#diff-b9cfc7f2cdf78a7f4b91a753d10865a2) for all the extension changes
 
 ### 2.2.0 -  Replaces MS.Tslint 1.0.0 which is broken back to `eg2.tslint`
 

@@ -2,7 +2,7 @@
   "name": "tgr-extension-pack",
   "displayName": "TGRStack.com extension pack.",
   "description": "Typescript GraphQL React Extensions for a great experience!",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "publisher": "tgrstack",
   "engines": {
     "vscode": "^1.15.0"
@@ -102,7 +102,6 @@
     "stevencl.addDocComments",
     "stuart.unique-window-colors",
     "tberman.json-schema-validator",
-    "tgrstack.tgr-extension-pack",
     "tgrstack.tgr-snippet-pack",
     "tnaseem.theme-seti",
     "Tyriar.sort-lines",
